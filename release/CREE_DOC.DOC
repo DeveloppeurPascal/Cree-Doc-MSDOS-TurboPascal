@@ -1,0 +1,38 @@
+                         CREE_DOC
+
+   Ce logiciel est destin‚ aux utilisateurs  du  Turbo  Pascal  de 
+Borland. En effet, il vous permet de distribuer  vos  unit‚s  sous 
+forme compil‚e (.TPU) et de joindre la partie interface sous forme 
+de fichier texte (.DOC).
+
+******************************************************************
+   Version 1.3: (28/12/1990)
+
+     Cette version ne prend que les fichiers  .PAS;  le  programme 
+parcourt le fichier jusqu'… ce qu'il trouve le mot  IMPLEMENTATION 
+(o— qu'il soit:  commentaires  ou  pas,  donc  m‚fiance  !!!).  Le 
+travail s'achŠve en fermant les fichiers (.PAS en lecture, et .DOC 
+en ‚criture).
+
+     Le seul nom de fichier … sp‚cifier est le nom .PAS, en effet, 
+le fichier r‚sultant aura le mˆme nom avec l'extension .DOC.
+
+     Il n'est pas utile de pr‚ciser  les  extensions,  elles  sont 
+prises par d‚faut comme dans tous  mes  programmes  (lorsqu'il  ne 
+peut pas y avoir d'ambiguit‚).
+
+******************************************************************
+Vous pouvez me contacter pour me donner des id‚es de programmes et 
+utilitaires,  mais  aussi  pour  m'indiquer  les  bugs  que   vous 
+trouverez dans mes programmes … l'adresse suivante (ou en personne 
+si vous me connaissez !):
+
+
+(maj du 03/01/2025 : adresse postale de l'epoque retiree du fichier, me contacter depuis https://developpeur-pascal.fr ou https://olfsoftware.fr pour toute question)
+
+
+******************************************************************
+
+Mise  …  jour  de  la  documentation  concernant   ce   programme: 
+01/03/1990.
+
